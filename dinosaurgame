@@ -1,0 +1,834 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YQGBTR1XD7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YQGBTR1XD7');
+</script>
+    <meta name="google-site-verification" content="Q6M2MEcytOILOSH_gcbKs7uQUj1jOPHDyNgta6yCqDI" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1193323491747558"
+     crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3683922880128100"
+     crossorigin="anonymous"></script>
+    <!-- Basic SEO & viewport -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Primary title & description -->
+    <title>Play 2D Dinosaur Game in Full Screen with 5 Modes (Dark, Light, Gorilla & More)</title>
+    <meta name="description" content="Play 2D Dinosaur Game Online With 5 different mode (Light, Dark, Gorilla, Yellow and Green). and Also You Can Play Dino Runner Game in Full Screen, It May Help to Get Highest Score 99999">
+
+    <!-- Keywords & indexing directives -->
+    <meta name="keywords" content="2D Dinosaur Game, Dino Runner Online, Dinosaur Game, Play Dinosaur Game Free, Endless 2D Runner Game, No Internet Game, Online Arcade Game, Dino Jump Game, No Download Game">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="DinoGame.us">
+    <link rel="canonical" href="https://dinogame.us/">
+
+    <!-- Open Graph for Social Sharing -->
+    <meta property="og:title"       content="Play the Classic 2D Dinosaur Game Online!">
+    <meta property="og:description" content="Enjoy the famous dino runner game with multiple themes and features. Run, jump and survive the desert! Works offline or online.">
+    <meta property="og:image"       content="assets/dinogame/dinosaur-game-feature-image.webp">
+    <meta property="og:url"         content="https://dinogame.us/">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Bungee&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "WebSite",
+"name": "Dino Game",
+"url": "https://dinogame.us/",
+"description": "Play the Chrome Dinosaur Game (Dino Game) online in full screen. Jump over cacti and birds using spacebar or tap. Fully responsive and mobile-friendly.",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://dinogame.us/search?q={search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "What is Dino Game and how do I play it?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Dino Game is a browser-based game where you control a dinosaur to jump over obstacles. Just press the spacebar or Up Arrow Key. if You are Using Mobile then tap the screen to start and jump.."
+}
+},
+{
+"@type": "Question",
+"name": "Can I play Dino Game on my mobile or tablet?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Yes! DinoGame.us is fully responsive and mobile-friendly. You can enjoy the game on smartphones, tablets, and desktops without downloading anything."
+}
+},
+{
+"@type": "Question",
+"name": "Do I need to install anything to play the Dino Game?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "No installation is needed. Just visit DinoGame.us and start playing instantly in your browser."
+}
+},
+{
+"@type": "Question",
+"name": "Is the Dino Game free to play?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Absolutely! Dino Game is 100% free. You don’t need to sign up or pay to enjoy it."
+}
+},
+{
+"@type": "Question",
+"name": "How can I play Dino Game in full screen mode?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Our Website is Desinged for you to Play this T Rex Game in Default Full Screen. You Donot Need to do anything. for playing this game, Press Spacebar button this game Automatically start in Full Screen Mode. This gives you a better experience on all devices."
+}
+},
+{
+"@type": "Question",
+"name": " What happens when you get 99999 on Dinosaur Game??",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "When You Get Highest Score 99999 in 2D Dinosaur Game,Then this Game With Reset and Start Again with '0'."
+}
+},
+{
+"@type": "Question",
+"name": "How to Get Highest Score in Dino Runner Game?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "You Can Get Highest Score of Yourself in this Game. but it is not Easy. Becaus You have to do Practice Everyday and if you give every Day 10 to 15 Min this 2D Dino Game, then one day You can Achieve Your Highest Score."
+}
+},
+{
+"@type": "Question",
+"name": "Is This safe for kids?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Yes, this game is simple, child-friendly, and contains no harmful content. It’s a great way to pass time for users of all ages."
+}
+},
+{
+"@type": "Question",
+"name": "Why should I play Dino Game here instead of offline?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "DinoGame.us offers a full-screen experience, works on all devices, and has a smoother interface than most offline versions."
+}
+},
+{
+"@type": "Question",
+"name": "How can I contact the team of DinoGame.us?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "You can reach out via our Contact Us page for any support, feedback, or questions related to the game."
+}
+},
+{
+"@type": "Question",
+"name": "What is the highest score in Dino Game?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "There is no official maximum score, but the game ends after reaching 99,999 points, which is considered the highest possible score."
+}
+}
+]
+}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "SoftwareApplication",
+"name": "Dino Game",
+"operatingSystem": "All",
+"applicationCategory": "GameApplication",
+"description": "Play the classic Chrome Dinosaur Game (Dino Game) online at DinoGame.us. Jump over cacti and obstacles with your dinosaur. Fully responsive, mobile-friendly, and works in all browsers.",
+"url": "https://dinogame.us/",
+"browserRequirements": "Requires a modern web browser with JavaScript enabled",
+"softwareVersion": "1.0",
+"offers": {
+"@type": "Offer",
+"price": "0",
+"priceCurrency": "USD"
+},
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "2740"
+},
+"author": {
+"@type": "Organization",
+"name": "DinoGame.us"
+}
+}
+</script>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "VideoGame",
+"name": "Dino Game",
+"url": "https://dinogame.us/",
+"applicationCategory": "ArcadeGame",
+"operatingSystem": "Web",
+"genre": "Endless Runner",
+"playMode": "SinglePlayer",
+"inLanguage": "English",
+"author": {
+"@type": "Organization",
+"name": "DinoGame.us"
+},
+"publisher": {
+"@type": "Organization",
+"name": "DinoGame.us"
+},
+"description": "Play the classic Chrome Dinosaur Game online at DinoGame.us. Jump, dodge, and run in this fun, full-screen endless runner game.",
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"reviewCount": "1800"
+},
+"offers": {
+"@type": "Offer",
+"price": "0.00",
+"priceCurrency": "USD"
+}
+}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"name": "Home",
+"item": "https://dinogame.us/"
+},
+{
+"@type": "ListItem",
+"position": 2,
+"name": "Play Dino Game",
+"item": "https://dinogame.us/"
+}
+]
+}
+</script>
+    
+    <!-- ---- Consolidated Main Styles ---- -->
+    <style>
+      /* ⚙️ GLOBAL RESET & VARIABLES */
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      :root {
+        /* Base page colors */
+        --page-bg-color: #ffffff;
+        --page-text-color: #2c3e50;
+        --highlight: #27ae60;
+        --danger: #e74c3c;
+        
+        /* Game specific theme variables */
+        --bg-color: #f7f7f7; 
+        --primary-text-color: #333; 
+        --ground-color: #333;
+        --obstacle-color: #d9534f; 
+        --cloud-color: #ddebf0; 
+        --dino-filter: none;
+      }
+
+      /* 🌍 GLOBAL APPLY */
+      body {
+        background-color: var(--page-bg-color);
+        color: var(--page-text-color);
+        font-family: 'Roboto', 'Segoe UI', Tahoma, sans-serif;
+        line-height: 1.6;
+        transition: background-color 0.3s ease, color 0.3s ease;
+      }
+
+      /* 🌐 MAIN HEADER STYLES */
+      .page-wrapper { /* This class is still used to wrap the page content */ } 
+      header {
+        position: sticky; top: 0;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        z-index: 999; display: flex;
+        justify-content: space-between; align-items: center;
+        padding: 12px 25px; flex-wrap: wrap;
+        background-color: var(--page-bg-color);
+        transition: background-color 0.3s ease;
+      }
+      .logo a { text-decoration: none; font-size: 24px; font-weight: bold; color: var(--page-text-color); font-family: 'Bungee', cursive; transition: color .3s; }
+      .logo-green { color: var(--highlight); }
+      .nav-links { display: flex; align-items: center; flex-wrap: wrap; gap: 20px; }
+      .nav-links a { color: var(--page-text-color); text-decoration: none; font-weight: 500; font-size: 16px; transition: color 0.3s; }
+      .nav-links a:hover { color: var(--highlight); }
+      .dropdown select {
+        padding: 6px 10px; font-size: 14px;
+        border-radius: 8px; border: 1px solid #ccc;
+        background-color: var(--page-bg-color); color: var(--page-text-color);
+        min-width: 150px; cursor: pointer; transition: all .3s;
+      }
+
+      /* 🍔 HAMBURGER & MOBILE MENU */
+      .hamburger { display: none; flex-direction: column; gap: 4px; cursor: pointer; }
+      .hamburger div { width: 25px; height: 3px; background-color: var(--page-text-color); transition: 0.3s; }
+      .mobile-menu {
+        display: flex; flex-direction: column; position: fixed;
+        top: 0; right: 0; width: 260px; height: 100vh;
+        z-index: 10000; padding: 20px;
+        box-shadow: -5px 0 15px rgba(0, 0, 0, 0.2);
+        transform: translateX(100%); transition: transform 0.3s ease-in-out;
+        background-color: var(--page-bg-color);
+      }
+      .mobile-menu.open { transform: translateX(0); }
+      .mobile-menu a, .mobile-menu select { display: block; margin-bottom: 20px; color: var(--page-text-color); font-size: 18px; text-decoration: none; width: 100%; }
+      .close-menu { font-size: 28px; text-align: right; cursor: pointer; margin-bottom: 20px; color: var(--page-text-color); }
+      @media (max-width: 920px) {
+        .hamburger { display: flex; }
+        .nav-links { display: none; }
+      }
+      
+      /*--- HERO SECTION & PLAY BUTTON ---*/
+      #hero {
+        position: relative; text-align: center; margin: 30px auto;
+        max-width: 1100px; padding: 0 20px; border-radius: 12px;
+        overflow: hidden;
+      }
+      #hero img {
+        width: 100%; height: auto; display: block;
+        border-radius: 12px; filter: blur(5px); transform: scale(1.05);
+      }
+      #playNowButton {
+        position: absolute; top: 50%; left: 50%;
+        transform: translate(-50%, -50%); padding: 15px 35px;
+        font-family: 'Bungee', cursive; font-size: 1.8rem;
+        color: #fff; background: linear-gradient(45deg, var(--highlight), #2ecc71);
+        border: none; border-radius: 15px; cursor: pointer;
+        text-shadow: 2px 2px 5px rgba(0,0,0,0.4);
+        box-shadow: 0 6px 25px rgba(39, 174, 96, 0.5);
+        transition: all 0.3s ease;
+      }
+      #playNowButton:hover { transform: translate(-50%, -50%) scale(1.05); box-shadow: 0 10px 30px rgba(39, 174, 96, 0.7); }
+      @media (max-width: 600px) { #playNowButton { font-size: 1.3rem; padding: 12px 25px; }}
+      
+      /* 📄 ARTICLE & FAQ SECTION */
+      .dino-article { max-width: 1100px; margin: 40px auto; padding: 20px; }
+      .dino-article h1 { font-family: 'Bungee', cursive; font-size: 28px; text-align: center; margin-bottom: 20px; color: var(--page-text-color); }
+      .dino-article h2 { font-family: 'Bungee', cursive; font-size: 24px; margin-top: 30px; color: var(--page-text-color); border-left: 4px solid var(--highlight); padding-left: 12px;}
+      .dino-article p, .dino-article li { font-size: 17px; line-height: 1.7; color: var(--page-text-color); }
+      .dino-article p { text-align: justify; }
+      .dino-article a { color: var(--highlight); text-decoration: underline; font-weight: 500;}
+      .dino-article a:hover { text-decoration: none; }
+      .dino-article ul, .dino-article ol { padding-left: 30px; }
+      
+      /* FAQ Accordion Styling */
+      .faq-section { max-width: 1100px; margin: 40px auto; padding: 0 20px;}
+      .faq-title { font-family: 'Bungee', cursive; font-size: 26px; text-align: center; margin-bottom: 25px; color: var(--page-text-color);}
+      .faq-item { border: 1px solid rgba(128,128,128,0.15); border-radius: 8px; margin-bottom: 10px; overflow: hidden;}
+      .faq-question { padding: 16px; font-weight: 700; font-size: 18px; cursor: pointer; position: relative; color: var(--page-text-color);}
+      .faq-question::after { content: '+'; position: absolute; right: 20px; top: 50%; transform: translateY(-50%); font-size: 24px; font-weight: 400; color: var(--highlight); transition: transform 0.3s ease;}
+      .faq-item.active .faq-question::after { transform: translateY(-50%) rotate(45deg); }
+      .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.4s ease-out; background: rgba(128,128,128,0.03); }
+      .faq-answer p { padding: 16px; margin:0; line-height: 1.7; border-top: 1px solid rgba(128,128,128,0.1);}
+      .faq-item.active .faq-answer { max-height: 500px; } /* Adjust if needed */
+      
+      @media(max-width: 600px) {
+        .dino-article h1 { font-size: 24px; }
+        .dino-article h2, .faq-title { font-size: 20px; }
+        .dino-article div[style*="flex-direction: row-reverse"] { flex-direction: column !important; }
+      }
+
+      /* 🔻 FOOTER SECTION */
+      footer {
+        padding: 20px; text-align: center; margin-top: 40px; border-top: 1px solid #ddd;
+        background-color: var(--page-bg-color); font-size: 15px; transition: background-color .3s;
+      }
+      footer a { text-decoration: none; margin: 0 15px; color: var(--page-text-color); transition: color .3s;}
+      footer a:hover { text-decoration: underline; }
+      
+      /* ⚙️ FULLSCREEN GAME CONTAINER STYLES */
+      #game-screen-wrapper {
+        position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+        background: var(--bg-color); display: none; z-index: 1001;
+        flex-direction: column; align-items: center; justify-content: flex-start;
+        padding-top: 5vh; /* This provides consistent top spacing */
+        box-sizing: border-box; color: var(--primary-text-color);
+        transition: background-color .3s, color .3s;
+      }
+      :fullscreen .page-wrapper, :-webkit-full-screen .page-wrapper { display: none; }
+      /* The fullscreen padding override was removed to ensure consistent spacing */
+      
+      /* ---- STYLES FOR THE 2D GAME ITSELF ---- */
+      #game-screen-wrapper h1 { 
+        font-family: 'Press Start 2P', cursive; 
+        font-size: 2.5em;
+        text-align: center; /* --- CHANGED --- Ensured the title text is centered */
+        color: var(--obstacle-color); text-shadow: 3px 3px 0px var(--ground-color); 
+        letter-spacing: 2px; margin-bottom: 10px; 
+        transition: color .3s, text-shadow .3s; 
+      }
+      
+      #theme-switcher-game { margin-bottom: 15px; width: 95vw; max-width: 800px; text-align: center; }
+      #theme-switcher-game button {
+        padding: 8px 16px; font-size: 14px; font-family: 'Roboto', sans-serif; font-weight: 500;
+        margin: 2px 5px; border: 2px solid var(--ground-color);
+        background-color: transparent; color: var(--primary-text-color);
+        cursor: pointer; border-radius: 8px; transition: all 0.2s;
+      }
+      #theme-switcher-game button:hover, #theme-switcher-game button.active-theme {
+        background-color: var(--ground-color);
+        color: var(--bg-color);
+      }
+
+      #game-container { width: 95vw; max-width: 800px; height: 250px; border-bottom: 2px solid var(--ground-color); position: relative; overflow: hidden; background-color: var(--bg-color); transition: background-color 0.3s, border-color 0.3s; }
+      #dino { width: 100px; height: 80px; object-fit: contain; position: absolute; bottom: -2px; left: 50px; z-index: 10; filter: var(--dino-filter); transform: scaleX(-1); transition: transform 0.1s, bottom 0.1s, filter 0.3s; }
+      #dino.collided { transform: scaleX(1); }
+      .jump-animation { animation: jump 0.65s cubic-bezier(0.25, 0.25, 0.3, 1); }
+      @keyframes jump { 0% { bottom: -2px; } 50% { bottom: 140px; } 100% { bottom: -2px; } }
+      .game-over-shake { animation: shake 0.3s; }
+      @keyframes shake { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-5px); } 50% { transform: translateX(5px); } 75% { transform: translateX(-5px); } }
+      
+      #game-over-message { 
+        z-index: 20; position: absolute; top: 50%; left: 50%;
+        transform: translate(-50%, -50%); text-align: center;
+        width: 90%; max-width: 500px; 
+      }
+      #game-over-message h2 { font-family: 'Press Start 2P', cursive; font-size: 2.5em; margin: 0; color: var(--obstacle-color); text-shadow: 2px 2px 0 var(--ground-color); transition: color .3s, text-shadow .3s;}
+      #final-score-text { font-size: 1.5em; margin: 20px 0; font-weight: bold; }
+      .game-over-buttons { display: flex; justify-content: center; gap: 15px; }
+      .game-button { padding: 12px 24px; font-size: 1.2em; font-weight: bold; color: var(--bg-color); border: none; border-radius: 8px; cursor: pointer; text-decoration: none; display: inline-block; transition: all .2s; }
+      #restart-button { background-color: var(--obstacle-color); }
+      #submit-score-button { background-color: #6c757d; }
+      .hidden { display: none; }
+      #instructions-container { display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px; margin-top: 25px; padding: 10px 20px; box-sizing: border-box; background: rgba(0,0,0,0.03); border-radius: 10px; border-top: 1px solid rgba(0,0,0,0.06); }
+      .control-group { display: flex; align-items: center; gap: 10px; } .control-group.secondary { gap: 20px; opacity: 0.7; font-size: 14px;}
+      .icon { width: 28px; height: 28px; fill: var(--primary-text-color); transition: fill .3s;} 
+      .action-text { font-size: 16px; font-weight: bold; color: var(--obstacle-color); transition: color .3s;} 
+      .or-text { font-size: 14px; opacity: 0.6; } 
+      kbd { padding: 6px 12px; font-size: 15px; font-weight: bold; border-radius: 6px; border: 1px solid var(--ground-color); box-shadow: 0 2px 0 var(--ground-color); color: var(--primary-text-color); background: var(--bg-color); transition: all .3s;}
+      #autoplay-button, #exit-button { padding: 8px 16px; font-size: 14px; border: none; border-radius: 8px; color: white; cursor: pointer; white-space: nowrap; }
+      #autoplay-button { background-color: #6c757d; }
+      #autoplay-button.active { background: linear-gradient(45deg, #28a745, #218838); }
+      #exit-button { background-color: var(--danger); margin-left: 10px; }
+      .cloud { position: absolute; background-color: var(--cloud-color); border-radius: 40px; z-index: 1; transition: background-color 0.3s; animation: moveClouds linear infinite paused; } .cloud::before, .cloud::after { content: ''; position: absolute; background-color: inherit; border-radius: 50%; } #cloud-1 { width: 70px; height: 22px; top: 30px; animation-duration: 25s; } #cloud-2 { width: 50px; height: 16px; top: 60px; animation-duration: 35s; } #cloud-3 { width: 90px; height: 28px; top: 45px; animation-duration: 18s; } @keyframes moveClouds { from { transform: translateX(900px); } to { transform: translateX(-150px); } } 
+      #obstacle { position: absolute; bottom: 0; z-index: 9; height: 55px; visibility: hidden; } 
+      #ui-container { z-index: 20; position: absolute; top: 10px; left: 10px; width: calc(100% - 20px); display: flex; justify-content: space-between; align-items: center; } 
+      #score-container, #hiscore-container { font-family: 'Press Start 2P', cursive; font-size: 16px; transition: color .3s; }
+      #hiscore-container { margin-right: 80px; }
+
+      #pause-icon-button, #mute-icon-button { position: absolute; top: 5px; z-index: 25; background: none; border: none; width: 32px; height: 32px; cursor: pointer; padding: 0; opacity: 0.7; transition: all .2s; }
+      #pause-icon-button:hover, #mute-icon-button:hover { opacity: 1; transform: scale(1.1); }
+      #pause-icon-button svg, #mute-icon-button svg { width: 100%; height: 100%; fill: var(--primary-text-color); transition: fill 0.3s; }
+      #pause-icon-button { right: 5px; } #mute-icon-button { right: 45px; }
+
+      @media (max-width: 800px) {
+        #game-screen-wrapper h1 { font-size: 1.8em; } 
+
+        #theme-switcher-game { margin-bottom: 10px; white-space: normal; }
+        #theme-switcher-game button { padding: 6px 12px; font-size: 12px; margin: 2px; }
+        
+        #score-container, #hiscore-container { font-size: 11px; }
+        #hiscore-container { margin-right: 70px; } 
+
+        #pause-icon-button, #mute-icon-button {
+            width: 24px;
+            height: 24px;
+            top: 8px;
+        }
+        #pause-icon-button { right: 10px; }
+        #mute-icon-button { right: 42px; }
+
+        #instructions-container { 
+            flex-wrap: nowrap; 
+            justify-content: space-around;
+            align-items: center;
+            gap: 5px; 
+            overflow: hidden; 
+            padding: 8px 5px;
+        }
+        
+        #instructions-container kbd { padding: 3px 5px; font-size: 11px; }
+        .action-text { font-size: 12px; }
+        .or-text, .control-group.secondary { font-size: 11px; }
+        .icon { width: 20px; height: 20px; }
+        .control-group { gap: 4px; }
+        .control-group.secondary { gap: 10px; white-space: nowrap;}
+        #autoplay-button, #exit-button {
+            padding: 5px 8px;
+            font-size: 10px;
+            margin-left: 3px;
+        }
+
+        #game-over-message h2 { font-size: 1.4em; }
+        #final-score-text { font-size: 1em; margin: 15px 0; }
+        .game-over-buttons { gap: 10px; }
+        .game-button { font-size: 0.9em; padding: 8px 12px; }
+
+        #dino { width: 80px; height: 64px; left: 20px; } 
+        #obstacle { height: 45px; } 
+        @keyframes jump { 0% { bottom: -2px; } 50% { bottom: 120px; } 100% { bottom: -2px; } } 
+      }
+    </style>
+</head>
+<body>
+
+    <div class="page-wrapper">
+        <header>
+            <div class="logo"><a href="https://dinogame.us/"><span class="logo-green">2D</span> Dinosaur Game</a></div>
+            <nav class="nav-links">
+                <a href="https://dinogame.us/">Home</a>
+                <a href="3d.html">3D Game</a>
+                <a href="leaderboard.html">Leaderboard</a>
+                <div class="dropdown"><select id="themeSelectorDesktop"><option value="light">🎨 Light</option><option value="dark">🎨 Dark</option><option value="gorilla">🎨 Gorilla</option><option value="yellow">🎨 Yellow</option><option value="green">🎨 Green</option></select></div>
+                <div class="dropdown"><select onchange="if(this.value) window.open(this.value, '_blank')"><option value="">📢 Follow Us</option><option value="https://in.pinterest.com/Dinogame2d/">🟥 Pinterest</option><option value="https://www.youtube.com/@DinosaurGame2D">▶️ YouTube</option><option value="https://x.com/DinoGame2d">🐦 Twitter</option></select></div>
+            </nav>
+            <div class="hamburger" onclick="toggleMenu()"><div></div><div></div><div></div></div>
+        </header>
+
+        <div class="mobile-menu" id="mobileMenu">
+            <div class="close-menu" onclick="toggleMenu()">✕</div>
+            <a href="https://dinogame.us/" onclick="toggleMenu()">Home</a><a href="3d.html" onclick="toggleMenu()">3D Game</a><a href="leaderboard.html" onclick="toggleMenu()">Leaderboard</a>
+            <select id="themeSelectorMobile"><option value="light">🎨 Light</option><option value="dark">🎨 Dark</option><option value="gorilla">🎨 Gorilla</option><option value="yellow">🎨 Yellow</option><option value="green">🎨 Green</option></select>
+            <select onchange="if(this.value) window.open(this.value, '_blank')"><option value="">Follow Us</option><option value="https://in.pinterest.com/Dinogame2d">🟥 Pinterest</option><option value="https://www.youtube.com/@DinosaurGame2D">▶️ YouTube</option><option value="https://x.com/DinoGame2d">🐦 Twitter</option></select>
+        </div>
+
+        <main id="landingPage">
+            <section id="hero">
+                <img src="assets/dinogame/dinosaur-game-feature-image.webp" alt="Dinosaur Game Feature Image">
+                <button id="playNowButton">Play Now</button>
+            </section>
+            
+            <article class="dino-article">
+                <h1>Play 2D Dinosaur Game | T Rex Game | Dino Runner Game</h1>
+                <p>Welcome to DinoGame.us! A simple way to enjoy the classic style Dinosaur Game in 2D. If you're looking for a fun, then you Should try Latest T Rex Runner Game Online With Full Screen and Light, Night, Green, Yellow and Green Mode. It means you can enjoy this game in full screen on your device in Different Screen Colur style. This is a fun Made and engaging game. if you are looking for enjoyment and a browser-based game, then our classic Dino Game is designed for you. This is All-device friendly. It means you can play this on mobile, tablet, and laptop as well.</p>
+                <center>
+                    <a href="https://dinogame.us/leaderboard"
+                    style="display:inline-block; background-color:#27ae60; color:#ffffff !important; font-size:16px; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold; transition:all 0.3s ease; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin:20px auto; text-align:center;"
+                    onmouseover="this.style.backgroundColor='#219150'; this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'"
+                    onmouseout="this.style.backgroundColor='#27ae60'; this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'">
+                    Submit Your Score
+                    </a>
+                </center>
+                <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; max-width: 1000px; margin: 30px auto; padding: 10px;">
+                    <div style="flex: 1 1 300px; text-align: center; padding: 10px; ">
+                        <img src="assets/t-rex-dinosaur-game-play-online.webp" alt="T-Rex dinosaur Game Play online"
+                        style="max-width:100%; height:auto; border-radius:10px; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+                    </div>
+                    <div style="flex: 1 1 400px; padding: 10px;">
+                        <h2 style="font-family: Arial, sans-serif; font-size: 26px; margin-bottom: 16px;">
+                            What Is a Dino Game?
+                        </h2>
+                        <p style="font-family: Arial, sans-serif; line-height: 1.7; font-size: 17px;">
+                            Dino game, also called dinosaur game, was first launched by Google in 2014. When the internet is off, Google developed this type of game for the enjoyment of its users. After this, the game has been redesigned by third-party platforms after being inspired by it.
+                        </p>
+                        <p style="font-family: Arial, sans-serif; line-height: 1.7; font-size: 17px;">
+                            Apart from dinosaur game, it is also known as T-Rex Runner game. Currently, it can be played both online and offline. When your internet connection is off, you can play it directly on the browser, whereas if you want to play with an internet connection, it can be played through third-party websites.
+                        </p>
+                    </div>
+                </div>
+                <p style="font-family: Arial, sans-serif; line-height: 1.7; font-size: 17px;">
+                    One such website is ours. After being launched by Google, this game has been redesigned by many developers in different ways. A <a href="3d.html" title="Play the 3D Version">Dino Game 3D</a> has also been made by some developers using better graphics, making it very fun for users.
+                </p>
+                <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; max-width: 1000px; margin: 30px auto; padding: 10px; flex-direction: row-reverse;">
+                     <div style="flex: 1 1 300px; text-align: center; padding: 10px;">
+                        <img src="assets/play-2d-dinosaur-game.webp" alt="Play 2D Dinosaur Game Online"
+                        style="max-width:100%; height:auto; border-radius:10px; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+                    </div>
+                    <div style="flex: 1 1 400px; padding: 10px;">
+                        <h2 style="font-family: Arial, sans-serif; font-size: 26px; margin-bottom: 16px;">
+                            How To Play 2D Dino Game?
+                        </h2>
+                        <p style="font-family: Arial, sans-serif; line-height: 1.7; font-size: 17px;">
+                            There are many websites available on the internet to play the <a href="https://dinogame.us/" title="Play 2D Dinosaur Game">2D style Dino Game</a>, one of which is our website. If you want to play it, you can play it on our website with full screen. For this, you can follow the steps given below:
+                        </p>
+                        <ul style="font-family: Arial, sans-serif; line-height: 1.7; font-size: 17px; padding-left: 20px;">
+                            <li>First, search on Google and land on the homepage of our website.</li>
+                            <li>In the second step, press the Spacebar button on your device.</li>
+                            <li>As soon as you press this button, your game will start.</li>
+                            <li>If you want to make the dinosaur jump, click the space button.</li>
+                            <li>Whenever any obstacle comes in front of the dinosaur, you can make it jump and save it by pressing the Spacebar button.</li>
+                            <li>Keep playing the game and enjoy. If you like this game, share it with your friends.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3466329067588216"
+                crossorigin="anonymous"></script>
+                <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-3466329067588216"
+                data-ad-slot="7500008340"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+                <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+
+                <h2>Another Versions of 2D Dinosaur Game </h2>
+                <p>As mentioned, after the launch of the original dinosaur game, many games have been created in different styles by developers inspired by its initial Version. You can play them by visiting their websites. Many developers have hosted this type of game on GitHub. You can Explore GitHub for more developer versions. Below are some different variants of this game you can play:</p>
+                <ul>
+                    <li><a href="3d.html" title="Play our 3D Game"><strong>3D Style Dino Game:</strong></a> This type of game has been developed by many users, and you can play it by visiting their websites. Better graphics have been used, which greatly enhances user enjoyment.</li>
+                    <li><strong>Light and Dark Mode:</strong> When You start this gmae on our site, by Default its Plays at Light Mode but You can Swtich it into Dark Mode Just pressing button in Main Menu. and This mode has been developed for playing this <a href="index.html" title="Play 2D Dino Runner">2D Dino Runnner Game</a> at night, allowing you to enjoy the game even in low light. Similarly, many more modes are available in this game.</li>
+                    <li><strong>Gorilla Mode:</strong> This mode just We have launched only for Gorilla Lover, this Mode different from Night Mode. in this you can see something like Purple Colour Screen .</li>
+                    <li><strong>Yellow Mode:</strong> This if you are playing this game in Day and do not Want your Eye harm, then you can switch in this Yellow mode. ULTRAVIOLET RAYS (Blue Light) comes from your system like Computer and Mobile Screen. but if you enable this mode, then Blue light can be filter in this Yellow Screen.</li>
+                    <li><strong>Green Mode:</strong> As You can Understand by its Name Green Mode, When You Enable this Mode then Your Whole Screen Device Switch into Green Screen. this Mode has been developed for Nature Love. because Green colour is a Sing of Nature.</li>
+                    <li><strong>Mario Dino Game:</strong> In the 2D style dinosaur game, other characters have been added in place of dinosaurs. A Mario game has been made by adding the Mario character, and similar games have been designed with other characters.</li>
+                </ul>
+                <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; max-width: 1000px; margin: 30px auto; padding: 10px;">
+                    <div style="flex: 1 1 300px; text-align: center; padding: 10px;">
+                        <img src="assets/how-to-play-2d-dino-game.webp" alt="How to Play 2D Dino Game"
+                        style="max-width:100%; height:auto; border-radius:10px; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+                    </div>
+                    <div style="flex: 1 1 400px; padding: 10px;">
+                        <h2 style="font-family: Arial, sans-serif; font-size: 26px; margin-bottom: 16px;">
+                            Facts About Dino Game
+                        </h2>
+                        <p style="font-family: Arial, sans-serif; line-height: 1.7; font-size: 17px;">
+                            Do you know some facts about the Dinosaur game first launched by Google? If not, read the facts below carefully:
+                        </p>
+                        <ul style="font-family: Arial, sans-serif; line-height: 1.7; font-size: 17px; padding-left: 20px;">
+                            <li>The original Dino Game was launched by the Google team in 2014. It was developed so users could enjoy it when the internet is off without leaving the browser.</li>
+                            <li>The inspiration for this game was taken by the Google team from the prehistoric period, considered the time of dinosaurs.</li>
+                            <li>This game is also known as the T-Rex Runner Game.</li>
+                            <li>It is an endless runner game that continues until the dinosaur collides with an obstacle.</li>
+                            <li>When you score more than 600, the speed increases significantly, and the chances of the dinosaur colliding with obstacles also increase due to high speed.</li>
+                            <li>The maximum score in this Dinosaur T-Rex Runner Endless game is 99999. When you achieve this score, the game resets.</li>
+                            <li>In today’s time, this game has become so popular that millions of people play it on the browser.</li>
+                        </ul>
+                    </div>
+                </div>
+                <h2>Tips to Achieve the Highest Score In This Game</h2>
+                <p>If you want to get the maximum score of 99999, you should follow some tips listed below:</p>
+                <ul>
+                    <li>For Getting High Score in this game You Should Practice Regularly. Continuous practice can make you perfect in any task.</li>
+                    <li>Always play this game on a device with a big screen to score well.</li>
+                    <li>Play with focus to achieve the maximum score.</li>
+                    <li>Be regular. Practicing for 10 minutes daily will prepare you to score the maximum.</li>
+                    <li>Create competition. Challenge your friends for fun, can increase your chances of scoring well.</li>
+                </ul>
+                <h2>Why Should You Play This Game?</h2>
+                <p>Since ancient times, playing games has been a trend in India and worldwide because games help focus our mental consciousness in one direction. Playing games daily improves your focus for any task and develops better problem-solving skills. In this, you pay more attention to completing your target while avoiding problems. Though it seems small, it is significant. Moreover, if you are experiencing stress, playing this game can also provide mental health relief.</p>
+            </article>
+
+            <div class="faq-section">
+                <div class="faq-title">Frequently Asked Questions – DinoGame.us</div>
+                <div class="faq-item">
+                    <div class="faq-question">Q1. What is Dino Game and how do I play it?</div>
+                    <div class="faq-answer"><p>Dino Game is a browser-based game where you control a dinosaur to jump over obstacles. Just press the spacebar or Up Arrow Key. if You are Using Mobile then tap the screen to start and jump.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q2. Can I play Dino Game on my mobile or tablet?</div>
+                    <div class="faq-answer"><p>Yes! DinoGame.us is fully responsive and mobile-friendly. You can enjoy the game on smartphones, tablets, and desktops without downloading anything.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q3. Do I need to install anything to play the Dino Game?</div>
+                    <div class="faq-answer"><p>No installation is needed. Just visit DinoGame.us and start playing instantly in your browser.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q4. Is the Dino Game free to play?</div>
+                    <div class="faq-answer"><p>Absolutely! Dino Game is 100% free. You don’t need to sign up or pay to enjoy it.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q5. How can I play Dino Game in full screen mode?</div>
+                    <div class="faq-answer"><p>Our Website is Desinged for you to Play this T Rex Game in Default Full Screen. You Donot Need to do anything. for playing this game, Press Spacebar button this game Automatically start in Full Screen Mode. This gives you a better experience on all devices.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q6. What happens when you get 99999 on Dinosaur Game?</div>
+                    <div class="faq-answer"><p>When You Get Highest Score 99999 in 2D Dinosaur Game,Then this Game With Reset and Start Again with '0' .</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q7. How to Get Highest Score in Dino Runner Game?</div>
+                    <div class="faq-answer"><p>You Can Get Highest Score of Yourself in this Game. but it is not Easy. Becaus You have to do Practice Everyday and if you give every Day 10 to 15 Min this 2D Dino Game, then one day You can Achieve Your Highest Score.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q8. Is this safe for kids?</div>
+                    <div class="faq-answer"><p>Yes, this game is simple, child-friendly, and contains no harmful content. It’s a great way to pass time for users of all ages.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q9. Why should I play Dino Game here instead of offline?</div>
+                    <div class="faq-answer"><p>DinoGame.us offers a full-screen experience, works on all devices, and has a smoother interface than most offline versions.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q10. How can I contact the team of DinoGame.us?</div>
+                    <div class="faq-answer"><p>You can reach out via our Contact Us page for any support, feedback, or questions related to the game.</p></div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Q11. What Is the Highest Score in Dino Game?</div>
+                    <div class="faq-answer"><p>There is no official maximum score, but the game ends after reaching 99,999 points, which is considered the highest possible score. </p></div>
+                </div>
+            </div>
+            
+            <div style="max-width: 1100px; margin: 40px auto; padding: 0 20px; box-sizing: border-box;">
+                <div style="background: var(--page-bg-color); color: var(--page-text-color); padding: 18px 24px; font-family: 'Segoe UI', sans-serif; font-size: 15.5px; border: 1px solid rgba(128,128,128,0.2); border-radius: 10px; line-height: 1.6;">
+                    <p style="margin: 0; text-align: center;">
+                        <strong style="color: var(--highlight); font-weight: 600;">Disclaimer:</strong>
+                        <a href="https://dinogame.us/" style="color: #2196F3; text-decoration: none; font-weight: 500;">DinoGame.us</a>
+                        is an independent fan-made website and is not affiliated with any official organizations or brands.
+                    </p>
+                </div>
+            </div>
+
+        </main>
+        
+        <footer>
+            <div><a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-and-conditions.html">Terms and Conditions</a> | <a href="disclaimer.html">Disclaimer</a></div>
+            <div>Copyright © 2025 Dino Game</div>
+        </footer>
+    </div>
+
+    <!-- Game Screen Wrapper -->
+    <div id="game-screen-wrapper">
+        <h1>2D Dinosaur Game</h1>
+        <div id="theme-switcher-game">
+            <button data-theme="light">Light</button>
+            <button data-theme="dark">Dark</button>
+            <button data-theme="gorilla">Gorilla</button>
+            <button data-theme="yellow">Yellow</button>
+            <button data-theme="green">Green</button>
+        </div>
+        <div id="game-container">
+            <img id="dino" src="" alt="Dinosaur"><img id="obstacle" src="assets/dinogame/cactus1.png" alt="Cactus"><div id="cloud-1" class="cloud"></div><div id="cloud-2" class="cloud"></div><div id="cloud-3" class="cloud"></div><div id="ui-container"><div id="score-container">SCORE: <span id="score">00000</span></div><div id="hiscore-container">HI: <span id="hiscore">00000</span></div></div><button id="mute-icon-button"></button><button id="pause-icon-button"></button>
+            <div id="game-over-message" class="hidden">
+                <h2 id="game-over-title">GAME OVER</h2><p id="final-score-text"></p>
+                <div class="game-over-buttons"><button id="restart-button" class="game-button">RESTART</button><a href="leaderboard.html" id="submit-score-button" class="game-button" target="_blank">SUBMIT SCORE</a></div>
+            </div>
+        </div>
+        <div id="instructions-container">
+            <div class="control-group"><kbd>Space</kbd><span class="or-text"> or </span><svg class="icon" viewBox="0 0 24 24"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg><span class="action-text"> JUMP</span></div>
+            <div class="control-group secondary"><span><kbd>P</kbd> PAUSE</span><span><kbd>M</kbd> MUTE</span></div>
+            <div>
+              <button id="autoplay-button">Auto Play: OFF</button>
+              <button id="exit-button">Exit</button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- ----- All Scripts ----- -->
+    <script>
+        // --- 2D Game Logic ---
+        const dino=document.getElementById("dino"),obstacle=document.getElementById("obstacle"),scoreElement=document.getElementById("score"),hiScoreElement=document.getElementById("hiscore"),gameOverMessage=document.getElementById("game-over-message"),gameOverTitle=document.getElementById("game-over-title"),finalScoreText=document.getElementById("final-score-text"),restartButton=document.getElementById("restart-button"),gameContainer=document.getElementById("game-container"),pauseIconButton=document.getElementById("pause-icon-button"),muteIconButton=document.getElementById("mute-icon-button"),autoplayButton=document.getElementById("autoplay-button"),exitButton=document.getElementById("exit-button"),root=document.documentElement;
+        const RUNNING_DINO_SRC="assets/dinogame/running-dinosaur.gif",COLLISION_DINO_SRC="assets/dinogame/dinosaur-obstacle.png";
+        const PAUSE_ICON_SVG='<svg viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>',RESUME_ICON_SVG='<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>',MUTE_ICON_SVG='<svg viewBox="0 0 24 24"><path d="M16.5 12c0-1.77-1.02-3.29-2.5-4.03v2.21l2.45 2.45c.03-.2.05-.41.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51C20.63 14.91 21 13.5 21 12c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM4.27 3L3 4.27 7.73 9H3v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06c1.38-.31 2.63-.95 3.69-1.81L19.73 21 21 19.73l-9-9L4.27 3zM12 4L9.91 6.09 12 8.18V4z"/></svg>',UNMUTE_ICON_SVG='<svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>';
+        
+        const jumpSound=new Audio("assets/audio/jump.mp3"),gameOverSound=new Audio("assets/audio/gameover.mp3");
+        let score=0,hiScore=localStorage.getItem("dinoHiScore2D")||0,isGameOver=!0,isPaused=!1,isMuted="true"===localStorage.getItem("dinoGameMuted2D"),isAutoPlay="true"===localStorage.getItem("dinoAutoPlay2D"),lastTime=0,currentSpeed,scoreCounter=0;const cactusImages=["assets/dinogame/cactus1.png","assets/dinogame/cactus2.png"],INITIAL_SPEED=280,SPEED_INCREMENT=.2;
+        const themes={
+            light:  { bg: "#f7f7f7", text: "#333", ground: "#333", obs: "#d9534f", cloud: "#ddebf0", filter: "none", pageBg: "#ffffff", pageText: "#2c3e50" },
+            dark:   { bg: "#2c3e50", text: "#ecf0f1", ground: "#ecf0f1", obs: "#e74c3c", cloud: "#34495e", filter: "brightness(0.9) grayscale(0.2)", pageBg: "#121212", pageText: "#e0e0e0" },
+            gorilla:{ bg: "#2a403d", text: "#a3ffb4", ground: "#32cd32", obs: "#32cd32", cloud: "#415a56", filter: "hue-rotate(220deg) saturate(2)", pageBg: "#2b0033", pageText: "#ffffff" },
+            yellow: { bg: "#fffacd", text: "#5c4033", ground: "#5c4033", obs: "#4682b4", cloud: "#ffffff", filter: "sepia(0.5) saturate(2)", pageBg: "#fff8b5", pageText: "#333300" },
+            green:  { bg: "#e8f5e9", text: "#1b5e20", ground: "#2e7d32", obs: "#a5d6a7", cloud: "#c8e6c9", filter: "hue-rotate(30deg) saturate(1.5)", pageBg: "#ccffcc", pageText: "#003300" }
+        };
+        function handleAction(){isGameOver?startGame():jump()}
+        function gameLoop(e){if(isGameOver||isPaused)return;isAutoPlay&&autoPlayLogic();const t=e-lastTime||0;moveObstacle(t),checkCollision(),updateScore(t),lastTime=e,requestAnimationFrame(gameLoop)}
+        function startGame(){isGameOver=!1,isPaused=!1,score=0,scoreCounter=0,currentSpeed=INITIAL_SPEED,dino.classList.remove("collided"),scoreElement.innerText="00000",dino.src=RUNNING_DINO_SRC,gameOverMessage.classList.add("hidden"),pauseIconButton.style.display="block",muteIconButton.style.display="block",resetObstacle(),obstacle.style.visibility="hidden",setTimeout(()=>{isGameOver||(obstacle.style.visibility="visible")},500),document.querySelectorAll(".cloud").forEach(e=>{e.style.animationPlayState="running"}),lastTime=performance.now(),requestAnimationFrame(gameLoop)}
+        function endGame() {
+            isGameOver = !0;
+            const finalScore = Math.floor(score);
+            const submitButton = document.getElementById("submit-score-button");
+            submitButton.href = `leaderboard.html?score=${finalScore}`;
+
+            isMuted || (gameOverSound.currentTime = 0, gameOverSound.play()), dino.src = COLLISION_DINO_SRC, dino.classList.add("collided"), pauseIconButton.style.display = "none", muteIconButton.style.display = "none", gameContainer.classList.add("game-over-shake"), setTimeout(() => gameContainer.classList.remove("game-over-shake"), 300), score > hiScore && (hiScore = Math.floor(score), localStorage.setItem("dinoHiScore2D", hiScore), hiScoreElement.innerText = String(hiScore).padStart(5, "0")), gameOverTitle.textContent = "GAME OVER", finalScoreText.textContent = `Your Score: ${finalScore}`, gameOverMessage.classList.remove("hidden"), document.querySelectorAll(".cloud").forEach(e => {
+                e.style.animationPlayState = "paused"
+            })
+        }
+        function jump(){if(isGameOver||dino.classList.contains("jump-animation")||isPaused)return;isMuted||(jumpSound.currentTime=0,jumpSound.play()),dino.classList.add("jump-animation"),dino.addEventListener("animationend",()=>dino.classList.remove("jump-animation"),{once:!0})}
+        function autoPlayLogic(){if(dino.classList.contains("jump-animation"))return;const e=obstacle.getBoundingClientRect(),t=dino.getBoundingClientRect();if(e.right<0||e.left>gameContainer.clientWidth)return;const o=currentSpeed*.38+30;e.left>t.left&&e.left<t.left+o&&jump()}
+        function checkCollision(){if(isGameOver||isAutoPlay)return;const e=dino.getBoundingClientRect(),t=obstacle.getBoundingClientRect();"hidden"!==getComputedStyle(obstacle).visibility&&e.right-25>t.left&&e.left+25<t.right&&e.bottom>t.top+15&&endGame()}
+        function moveObstacle(e){if(isPaused||"hidden"===getComputedStyle(obstacle).visibility)return;let t=parseFloat(getComputedStyle(obstacle).left);t-=currentSpeed*e/1e3,t<-100&&(t=gameContainer.clientWidth,obstacle.src=cactusImages[Math.floor(2*Math.random())]),obstacle.style.left=t+"px"}
+        function updateScore(e){scoreCounter+=e,scoreCounter>=100&&(score++,scoreElement.innerText=String(Math.floor(score)).padStart(5,"0"),currentSpeed+=SPEED_INCREMENT,scoreCounter=0)}
+        function resetObstacle(){obstacle.style.left=gameContainer.clientWidth+"px",obstacle.src=cactusImages[Math.floor(2*Math.random())]}
+        function togglePause(){isGameOver||(isPaused=!isPaused,pauseIconButton.innerHTML=isPaused?RESUME_ICON_SVG:PAUSE_ICON_SVG,document.querySelectorAll(".cloud").forEach(e=>{e.style.animationPlayState=isPaused?"paused":"running"}),isPaused||(lastTime=performance.now(),requestAnimationFrame(gameLoop)))}
+        function toggleMute(){isMuted=!isMuted;localStorage.setItem("dinoGameMuted2D",isMuted);muteIconButton.innerHTML=isMuted?MUTE_ICON_SVG:UNMUTE_ICON_SVG}
+        function toggleAutoPlay(){isAutoPlay=!isAutoPlay;localStorage.setItem("dinoAutoPlay2D",isAutoPlay);updateAutoPlayButton()}
+        function updateAutoPlayButton(){autoplayButton.textContent=`Auto Play: ${isAutoPlay?"ON":"OFF"}`,autoplayButton.classList.toggle("active",isAutoPlay)}
+        
+        function applyTheme(themeName) {
+            const theme = themes[themeName] || themes.light;
+            root.style.setProperty("--page-bg-color", theme.pageBg);
+            root.style.setProperty("--page-text-color", theme.pageText);
+            root.style.setProperty("--bg-color", theme.bg);
+            root.style.setProperty("--primary-text-color", theme.text);
+            root.style.setProperty("--ground-color", theme.ground);
+            root.style.setProperty("--obstacle-color", theme.obs);
+            root.style.setProperty("--cloud-color", theme.cloud);
+            root.style.setProperty("--dino-filter", theme.filter);
+            localStorage.setItem("dino_game_theme_2d", themeName);
+            document.getElementById('themeSelectorDesktop').value = themeName;
+            document.getElementById('themeSelectorMobile').value = themeName;
+
+            document.querySelectorAll('#theme-switcher-game button').forEach(button => {
+                button.classList.toggle('active-theme', button.dataset.theme === themeName);
+            });
+        }
+        
+        function initializeGame(){hiScoreElement.innerText=String(Math.floor(hiScore)).padStart(5,"0"),finalScoreText.textContent="Press Space or Tap to Start",gameOverMessage.classList.remove("hidden"),dino.src=COLLISION_DINO_SRC,dino.classList.add("collided"),pauseIconButton.innerHTML=PAUSE_ICON_SVG,muteIconButton.innerHTML=isMuted?MUTE_ICON_SVG:UNMUTE_ICON_SVG,pauseIconButton.style.display="none",muteIconButton.style.display="none",updateAutoPlayButton(),resetObstacle(),obstacle.style.visibility="hidden",gameOverTitle.textContent="DINO GAME"}
+        
+        // --- UI & Fullscreen Logic ---
+        function toggleMenu(){document.getElementById('mobileMenu').classList.toggle('open')}
+        function openFullscreen(elem){if(elem.requestFullscreen){elem.requestFullscreen()}else if(elem.webkitRequestFullscreen){elem.webkitRequestFullscreen()}}
+        function exitGame() {
+            if (document.exitFullscreen) {
+                document.exitFullscreen();
+            } else if (document.webkitExitFullscreen) { /* Safari */
+                document.webkitExitFullscreen();
+            }
+        }
+        document.addEventListener('DOMContentLoaded',()=>{
+            const gameScreenWrapper=document.getElementById('game-screen-wrapper');
+            document.getElementById('playNowButton').addEventListener('click',()=>{gameScreenWrapper.style.display='flex';openFullscreen(gameScreenWrapper);startGame()});
+            document.addEventListener('fullscreenchange',()=>{if(!document.fullscreenElement){gameScreenWrapper.style.display='none';isGameOver=!0}});
+            document.addEventListener("keydown",e=>{if(document.fullscreenElement){e.preventDefault();"Space"===e.code||"ArrowUp"===e.code?handleAction():"KeyP"===e.code?togglePause():"KeyM"===e.code&&toggleMute()}});
+            
+            document.addEventListener("touchstart",e=>{
+                if(!document.fullscreenElement)return;
+                const t=e.target;
+                if(t.closest("#instructions-container")||t.closest("#pause-icon-button")||t.closest("#mute-icon-button") || t.closest("#theme-switcher-game"))return;
+                e.preventDefault();
+                handleAction();
+            });
+
+            gameOverMessage.addEventListener('touchstart',e=>e.stopPropagation());
+            restartButton.addEventListener("click",startGame);
+            pauseIconButton.addEventListener("click",togglePause);
+            muteIconButton.addEventListener("click",toggleMute);
+            autoplayButton.addEventListener("click",toggleAutoPlay);
+            exitButton.addEventListener("click", exitGame);
+            
+            // Setup for all theme selectors
+            ['themeSelectorDesktop','themeSelectorMobile'].forEach(id=>document.getElementById(id).addEventListener('change',function(){applyTheme(this.value)}));
+            document.querySelectorAll('#theme-switcher-game button').forEach(button => {
+                button.addEventListener('click', function() {
+                    applyTheme(this.dataset.theme);
+                });
+            });
+
+            const savedTheme=localStorage.getItem("dino_game_theme_2d")||"light";applyTheme(savedTheme);
+            initializeGame();
+
+            // FAQ Accordion Logic
+            document.querySelectorAll('.faq-question').forEach(question => {
+                question.addEventListener('click', () => {
+                    const faqItem = question.parentElement;
+                    faqItem.classList.toggle('active');
+                });
+            });
+        });
+    </script>
+</body>
+</html>
